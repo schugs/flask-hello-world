@@ -2,5 +2,8 @@
   "name": "flask-hello-world",
   "dependencies": {
     "webpack-cli": "^4.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
   }
 }
