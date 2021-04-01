@@ -4,11 +4,9 @@
     "build": "webpack"
   },
   "dependencies": {
-    "webpack-cli": "^4.6.0",
     "webpack": "^5.30.0"
   },
   "devDependencies": {
     "webpack-cli": "^4.6.0",
-    "webpack": "^5.30.0"
   }
 }
