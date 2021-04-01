@@ -1,7 +1,7 @@
 {
   "name": "flask-hello-world",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack -v"
   },
   "dependencies": {
     "webpack": "^5.30.0"
